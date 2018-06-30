@@ -47,3 +47,7 @@ Additional functions:
 - https://github.com/m0nad/Diamorphine :shit: 
 
   LKM rootkit for Linux Kernels 2.6.x/3.x/4.x (x86 and x86_64)
+  
+- https://github.com/ivyl/rootkit :shit:
+
+  Sample Rootkit for Linux
