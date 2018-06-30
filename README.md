@@ -1,6 +1,6 @@
 # `awesome-linux-rootkits`
 
-## feature table
+## :key: feature table
 
 - Operational environment (`OE-*`)
 - Hiding of files and directories (`HIDE-fs-*`)
