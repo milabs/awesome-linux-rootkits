@@ -60,6 +60,10 @@ Additional functions:
 
   rkduck - Rootkit for Linux v4
 
+- https://github.com/croemheld/lkm-rootkit
+
+  A LKM rootkit for most newer kernel versions.
+
 - https://github.com/mncoppola/suterusu
 
   An LKM rootkit targeting Linux 2.6.x/3.x on x86, and ARM
