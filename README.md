@@ -2,12 +2,12 @@
 
 ## :key: feature table
 
-- Operational environment (`OE-*`)
-- Hiding of files and directories (`HIDE-fs-*`)
-- Hiding of processes and process trees (`HIDE-proc-*`)
-- Hiding of network connections and activity (`HIDE-net-*`)
-- Keylogger (`X-keylogger`)
-- Backdoor (`X-backdoor`)
+- Operational environment
+- Hiding of files and directories
+- Hiding of processes and process trees
+- Hiding of network connections and activity
+- Keylogger
+- Backdoor
 
 ## :see_no_evil: user mode rootkits :shit: 
 
@@ -15,7 +15,7 @@
 
   Linux LD_PRELOAD rootkit (x86 and x86_64 architectures)
   
-  :point_up: `OE-user`
+  :point_up:
 
 ## :hear_no_evil: kernel mode rootkits :heart:
 
@@ -23,11 +23,11 @@
 
   Reptile is a LKM rootkit written for evil purposes that runs on Linux kernel 2.6.x/3.x/4.x
 
-  :point_up: `OE-kernel` `HIDE-fs-{getdents,getdents64}` `X-backdoor`
+  :point_up: `backdoor`
 
 - https://github.com/QuokkaLight/rkduck
 
   rkduck - Rootkit for Linux v4
   
-  :point_up: `OE-kernel` `X-keylogger` `HIDE-fs-{filldir}` `X-backdoor`
+  :point_up: `keylogger` `backdoor`
 
