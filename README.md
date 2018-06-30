@@ -87,3 +87,7 @@ Additional functions:
 - https://github.com/falk3n/subversive
 
   x86_64 linux rootkit using debug registers
+
+- https://github.com/jiayy/lkm-rootkit
+
+  An lkm rootkit support x86/64,arm,mips
