@@ -24,7 +24,7 @@ Additional functions:
  - Keylogger
  - Backdoor/shell
 
-## :see_no_evil: user mode rootkits :shit: 
+## :see_no_evil: user mode rootkits
 
 - https://github.com/mempodippy/vlany
 
@@ -32,7 +32,7 @@ Additional functions:
   
   :point_up:
 
-## :hear_no_evil: kernel mode rootkits :heart:
+## :hear_no_evil: kernel mode rootkits
 
 - https://github.com/f0rb1dd3n/Reptile
 
@@ -50,6 +50,6 @@ Additional functions:
 
   An LKM rootkit targeting Linux 2.6/3.x on x86, and ARM
 
-- https://github.com/m0nad/Diamorphine
+- https://github.com/m0nad/Diamorphine :shit: 
 
   LKM rootkit for Linux Kernels 2.6.x/3.x/4.x (x86 and x86_64)
