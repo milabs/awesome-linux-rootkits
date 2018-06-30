@@ -50,6 +50,10 @@ Additional functions:
 
   LD_PRELOAD based
 
+- https://github.com/ChristianPapathanasiou/apache-rootkit
+
+  A malicious Apache module with rootkit functionality :point_up:
+
 ## :hear_no_evil: kernel mode rootkits
 
 - https://github.com/f0rb1dd3n/Reptile
