@@ -111,3 +111,7 @@ Additional functions:
 - https://github.com/hanj4096/wukong
 
   Wukong: a LKM rootkit for Linux kernel 2.6.x, 3.x and 4.x
+
+- https://github.com/varshapaidi/Kernel_Rootkit
+
+  Linux Kernel Rootkit - To hide modules and ssh service
