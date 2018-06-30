@@ -38,6 +38,7 @@ Additional functions:
   Reptile is a LKM rootkit written for evil purposes that runs on Linux kernel 2.6.x/3.x/4.x
 
   :point_up: `backdoor`
+  
 
 - https://github.com/QuokkaLight/rkduck
 
@@ -45,3 +46,6 @@ Additional functions:
   
   :point_up: `keylogger` `backdoor`
 
+- https://github.com/m0nad/Diamorphine
+
+  LKM rootkit for Linux Kernels 2.6.x/3.x/4.x (x86 and x86_64)
