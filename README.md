@@ -115,3 +115,7 @@ Additional functions:
 - https://github.com/varshapaidi/Kernel_Rootkit
 
   Linux Kernel Rootkit - To hide modules and ssh service
+
+- https://github.com/kacheo/KernelRootkit
+
+  Linux kernel rootkit to hide certain files and processes.
