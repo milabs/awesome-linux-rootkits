@@ -83,4 +83,7 @@ Additional functions:
 - https://github.com/David-Reguera-Garcia-Dreg/enyelkm
 
   LKM rootkit for Linux x86 with the 2.6 kernel. It inserts salts inside system_call and sysenter_entry.
-  
+
+- https://github.com/falk3n/subversive
+
+  x86_64 linux rootkit using debug registers
