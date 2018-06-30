@@ -7,7 +7,9 @@ Environment:
 
 Core capabilities:
  - Persistency
- - Priveleges required
+ 
+Stealth capabilities:
+ - System logs cleaning (filtering) 
 
 Hiding stuff capabilities:
  - Hiding of files and directories
