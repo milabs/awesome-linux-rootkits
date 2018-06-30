@@ -63,3 +63,8 @@ Additional functions:
 - https://github.com/ivyl/rootkit :shit:
 
   Sample Rootkit for Linux
+  
+- https://github.com/Eterna1/puszek-rootkit
+
+  Yet another LKM rootkit for Linux. It hooks syscall table.
+
