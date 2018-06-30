@@ -30,6 +30,10 @@ Additional functions:
 
   Linux LD_PRELOAD rootkit (x86 and x86_64 architectures)
 
+- https://github.com/unix-thrust/beurk
+
+  BEURK is an userland preload rootkit for GNU/Linux, heavily focused around anti-debugging and anti-detection.
+
 ## :hear_no_evil: kernel mode rootkits
 
 - https://github.com/f0rb1dd3n/Reptile
