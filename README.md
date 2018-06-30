@@ -38,6 +38,10 @@ Additional functions:
 
   Azazel is a userland rootkit based off of the original LD_PRELOAD technique from Jynx rootkit.
 
+- https://github.com/chokepoint/Jynx2
+
+  JynxKit2 is an LD_PRELOAD userland rootkit based on the original JynxKit.
+
 ## :hear_no_evil: kernel mode rootkits
 
 - https://github.com/f0rb1dd3n/Reptile
@@ -68,3 +72,10 @@ Additional functions:
 
   Yet another LKM rootkit for Linux. It hooks syscall table.
 
+- https://github.com/trimpsyw/adore-ng
+
+  linux rootkit adapted for 2.6 and 3.x
+  
+- https://github.com/bones-codes/the_colonel
+
+  An experimental linux kernel module (rootkit) with a keylogger and built-in IRC bot
