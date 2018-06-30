@@ -7,6 +7,7 @@ Environment:
 
 Core capabilities:
  - Persistency
+ - Management interface
  
 Stealth capabilities:
  - System logs cleaning (filtering) 
