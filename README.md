@@ -63,7 +63,11 @@ Additional functions:
 - https://github.com/mncoppola/suterusu
 
   An LKM rootkit targeting Linux 2.6.x/3.x on x86, and ARM
-  
+
+- https://github.com/romeroperezabel/ARP-RootKit
+
+  An open source rootkit for the Linux Kernel to develop new ways of infection/detection. :fire:
+
 - https://github.com/nurupo/rootkit
 
   Linux rootkit for Ubuntu 16.04 and 10.04 (Linux Kernels 4.4.0 and 2.6.32), both i386 and amd64
