@@ -2,12 +2,22 @@
 
 ## :key: feature table
 
-- Operational environment
-- Hiding of files and directories
-- Hiding of processes and process trees
-- Hiding of network connections and activity
-- Keylogger
-- Backdoor
+Environment:
+ - Kernel/User mode (or mixed)
+
+Core capabilities:
+ - Persistency
+ - Priveleges required
+
+Hiding stuff capabilities:
+ - Hiding of files and directories
+ - Hiding of processes and process trees
+ - Hiding of network connections and activity
+ - Hiding of process accounting information (like CPU usage)
+
+Additional functions:
+ - Keylogger
+ - Backdoor/shell
 
 ## :see_no_evil: user mode rootkits :shit: 
 
