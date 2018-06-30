@@ -3,6 +3,7 @@
 ## :key: feature table
 
 Environment:
+ - CPU architecture
  - Kernel/User mode (or mixed)
 
 Core capabilities:
@@ -39,12 +40,15 @@ Additional functions:
 
   :point_up: `backdoor`
   
-
 - https://github.com/QuokkaLight/rkduck
 
   rkduck - Rootkit for Linux v4
   
   :point_up: `keylogger` `backdoor`
+
+- https://github.com/mncoppola/suterusu
+
+  An LKM rootkit targeting Linux 2.6/3.x on x86, and ARM
 
 - https://github.com/m0nad/Diamorphine
 
