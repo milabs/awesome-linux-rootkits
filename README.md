@@ -10,6 +10,7 @@ Core capabilities:
  - Management interface
  
 Stealth capabilities:
+ - Detection evasion
  - System logs cleaning (filtering) 
 
 Hiding stuff capabilities:
