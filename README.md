@@ -119,3 +119,7 @@ Additional functions:
 - https://github.com/kacheo/KernelRootkit
 
   Linux kernel rootkit to hide certain files and processes.
+
+- https://github.com/dsmatter/brootus
+
+  bROOTus is a Linux kernel rootkit that comes as a single LKM (Loadable Kernel Module) and it is totally restricted to kernel 2.6.32.
