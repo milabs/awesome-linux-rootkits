@@ -41,7 +41,11 @@ Additional functions:
 - https://github.com/chokepoint/Jynx2
 
   JynxKit2 is an LD_PRELOAD userland rootkit based on the original JynxKit.
-  
+
+- https://github.com/chokepoint/jynxkit
+
+  JynxKit is an LD_PRELOAD userland rootkit for Linux systems with reverse connection SSL backdoor
+
 - https://github.com/NexusBots/Umbreon-Rootkit
 
   LD_PRELOAD based
