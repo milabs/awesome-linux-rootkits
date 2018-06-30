@@ -22,10 +22,11 @@
 
   Reptile is a LKM rootkit written for evil purposes that runs on Linux kernel 2.6.x/3.x/4.x
 
-  :point_up: `OE-kernel`
+  :point_up: `OE-kernel` `HIDE-fs-{getdents,getdents64}`
 
 - https://github.com/QuokkaLight/rkduck
 
   rkduck - Rootkit for Linux v4
   
-  :point_up: `OE-kernel` `X-keylogger`
+  :point_up: `OE-kernel` `X-keylogger` `HIDE-fs-{filldir}`
+
