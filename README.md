@@ -34,6 +34,10 @@ Additional functions:
 
   BEURK is an userland preload rootkit for GNU/Linux, heavily focused around anti-debugging and anti-detection.
 
+- https://github.com/chokepoint/azazel
+
+  Azazel is a userland rootkit based off of the original LD_PRELOAD technique from Jynx rootkit.
+
 ## :hear_no_evil: kernel mode rootkits
 
 - https://github.com/f0rb1dd3n/Reptile
