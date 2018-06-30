@@ -41,6 +41,10 @@ Additional functions:
 - https://github.com/chokepoint/Jynx2
 
   JynxKit2 is an LD_PRELOAD userland rootkit based on the original JynxKit.
+  
+- https://github.com/NexusBots/Umbreon-Rootkit
+
+  LD_PRELOAD based
 
 ## :hear_no_evil: kernel mode rootkits
 
