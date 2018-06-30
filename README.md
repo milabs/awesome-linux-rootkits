@@ -103,3 +103,7 @@ Additional functions:
 - https://github.com/jiayy/lkm-rootkit
 
   An lkm rootkit support x86/64,arm,mips
+
+- https://github.com/a7vinx/liinux
+
+  A linux rootkit works on kernel 4.0.X or higher
