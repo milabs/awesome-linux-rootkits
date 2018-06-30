@@ -107,3 +107,7 @@ Additional functions:
 - https://github.com/a7vinx/liinux
 
   A linux rootkit works on kernel 4.0.X or higher
+
+- https://github.com/hanj4096/wukong
+
+  Wukong: a LKM rootkit for Linux kernel 2.6.x, 3.x and 4.x
