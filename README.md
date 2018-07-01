@@ -135,3 +135,7 @@ Additional functions:
 - https://github.com/jarun/keysniffer
 
   A Linux kernel module to grab keys pressed in the keyboard (`keylogger`).
+
+- https://github.com/PinkP4nther/Sutekh
+
+  An example rootkit that gives a userland process root permissions (x86, 4.x)
