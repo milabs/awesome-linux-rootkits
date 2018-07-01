@@ -140,6 +140,10 @@ Additional functions:
 
   An example rootkit that gives a userland process root permissions (x86, 4.x)
 
+- https://github.com/En14c/LilyOfTheValley
+
+  LilyOfTheValley is a simple LKM linux kernel rootkit for v4.x that works on (x86 and x86_64) :shit:
+
 ## :speak_no_evil: related stuff
 
 - https://github.com/landhb/DrawBridge
