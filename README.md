@@ -139,3 +139,9 @@ Additional functions:
 - https://github.com/PinkP4nther/Sutekh
 
   An example rootkit that gives a userland process root permissions (x86, 4.x)
+
+## :speak_no_evil: related stuff
+
+- https://github.com/landhb/DrawBridge
+
+  A layer 4 Single Packet Authentication (SPA) Module, used to conceal TCP ports on public facing machines and add an extra layer of security.
