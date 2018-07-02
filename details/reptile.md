@@ -28,7 +28,7 @@ Implemented via `kill(2)` by hooking `sys_call_table[__NR_kill]` entry. Supporte
  - enabling/disabling of tampering file content function
  - gaining root priveleges to calling process
 
-## Altering system (library) behaviour
+## Altering system behaviour
 
 Hooking of system calls by patching syscall-handlers in `sys_call_table[]`:
  - to write to read-only page `CR0/WP` technique used (x86-only)
