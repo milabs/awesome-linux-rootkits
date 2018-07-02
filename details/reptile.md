@@ -57,7 +57,8 @@ Reverse shell spawning by port-knocking-like technique:
  - `ICMP/UDP/TCP` port-knocking
  - spawning root-shell connection to remote host
  
---
+-----
 
 :exclamation: Not able to tamper file contents while reading byte-by-byte.
+
 :exclamation: Not able to hide all threads and children of hidden (parent) process.
