@@ -6,6 +6,7 @@ https://github.com/f0rb1dd3n/Reptile
 
 - x86, x86_64
 - Linux kernel 2.6.x/3.x/4.x
+- Debian/Ubuntu, RHEL/CentOS/Fedora
 
 ## Persistency
 
