@@ -2,6 +2,9 @@
 
 https://github.com/f0rb1dd3n/Reptile
 
+ - Not able to tamper file contents while reading byte-by-byte (:exclamation:)
+ - Not able to hide all threads and children of hidden (parent) process (:exclamation:)
+
 ## Environment
 
 - Linux kernel 2.6.x/3.x/4.x
@@ -56,9 +59,3 @@ Filtering PID-like numeric entries while listing `/proc`:
 Reverse shell spawning by port-knocking-like technique:
  - `ICMP/UDP/TCP` port-knocking
  - spawning root-shell connection to remote host
- 
------
-
-:exclamation: Not able to tamper file contents while reading byte-by-byte.
-
-:exclamation: Not able to hide all threads and children of hidden (parent) process.
