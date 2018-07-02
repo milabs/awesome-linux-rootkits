@@ -32,6 +32,7 @@ Implemented via `kill(2)` by hooking `sys_call_table[__NR_kill]` entry. Supporte
 
 Hooking of system calls by patching syscall-handlers in `sys_call_table[]`:
  - to write to read-only page `CR0/WP` technique used (x86-only)
+ - netfilter hook (`NF_IP_PRI_FIRST`)
 
 ## Hiding (tampering) of file contents
 
@@ -51,3 +52,10 @@ Filtering PID-like numeric entries while listing `/proc`:
  - hidden tasks are marked using `task->flags` (bit `0x10000000`)
 
 :exclamation: Not able to hide all threads and children of hidden (parent) process.
+
+# Backdoor/shell
+
+Reverse shell spawning by port-knocking-like technique:
+ - `ICMP/UDP/TCP` port-knocking
+ - spawning root-shell connection to remote host
+ 
