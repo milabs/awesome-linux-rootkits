@@ -16,6 +16,7 @@ Stealth capabilities:
 
 Hiding stuff capabilities:
  - Hiding of files and directories
+ - Hiding (tampering) of file contents
  - Hiding of processes and process trees
  - Hiding of network connections and activity
  - Hiding of process accounting information (like CPU usage)
