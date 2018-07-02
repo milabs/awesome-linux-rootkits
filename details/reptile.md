@@ -48,7 +48,6 @@ Filtering of directory entries by hoocking:
 
 Filtering PID-like numeric entries while listing `/proc`:
  - getdents/getdents64 hook used
+ - hidden tasks are marked using `task->flags` (bit `0x10000000`)
 
-Hidden tasks are marked using `task->flags`, bit `0x10000000` used.
-
-Not able to hide all threads and children of hidden (parent) process.
+:exclamation: Not able to hide all threads and children of hidden (parent) process.
