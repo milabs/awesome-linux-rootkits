@@ -1,4 +1,4 @@
-# Reptile kernel rootkit details
+# Reptile rootkit details
 
 https://github.com/f0rb1dd3n/Reptile
 
@@ -14,9 +14,9 @@ https://github.com/f0rb1dd3n/Reptile
 
 Boot-time module loading using OS-specific startup files:
  - /etc/modules (debian/ubuntu)
+   - https://github.com/linux-rootkits/Reptile/blob/master/setup.sh#L296
  - /etc/rc.modules (redhat/centos/fedora)
-
-https://github.com/linux-rootkits/Reptile/blob/master/setup.sh#L296
+   - https://github.com/linux-rootkits/Reptile/blob/master/setup.sh#L298
 
 ## Detection evasion
 
