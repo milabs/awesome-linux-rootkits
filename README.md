@@ -65,6 +65,7 @@ Additional functions:
   | Environment | 2.6.x/3.x/4.x (x86) | `sys_call_table` search method is x86-only |
   | Persistency | /etc/modules or /etc/rc.modules | boot-time module loading |
   | Management interface | `kill(2)` | `sys_call_table[__NR_kill]` |
+  | Detection evasion | Hiding | Hide own files, unlinks module from `module_list`, tamper file content |
   | Hiding of files and directories | Filtering of direcroty entries | `sys_call_table[__NR_getdents]`  `sys_call_table[__NR_getdents64]` |
   | Hiding of processes and process trees | Filtering of `/proc` | Filtering `getdents` while listing `/proc`. Hidden tasks are marked using `task->flags` (0x10000000). Not able to hide all threads and children of parent process. |
   
