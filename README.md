@@ -59,7 +59,7 @@ Additional functions:
 
 ## :hear_no_evil: kernel mode rootkits
 
-- https://github.com/f0rb1dd3n/Reptile :point_right: [details](details/reptile.md)
+- https://github.com/f0rb1dd3n/Reptile :zap: [details](details/reptile.md) :zap:
 
   Reptile is a LKM rootkit written for evil purposes that runs on Linux kernel 2.6.x/3.x/4.x
   
