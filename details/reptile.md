@@ -54,7 +54,7 @@ Filtering PID-like numeric entries while listing `/proc`:
  - getdents/getdents64 hook used
  - hidden tasks are marked using `task->flags` (bit `0x10000000`)
 
-# Backdoor/shell
+## Backdoor/shell
 
 Reverse shell spawning by port-knocking-like technique:
  - `ICMP/UDP/TCP` port-knocking
