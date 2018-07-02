@@ -63,7 +63,7 @@ Additional functions:
 
   Reptile is a LKM rootkit written for evil purposes that runs on Linux kernel 2.6.x/3.x/4.x
   
-- https://github.com/QuokkaLight/rkduck
+- https://github.com/QuokkaLight/rkduck :zap: [details](details/rkduck.md) :zap:
 
   rkduck - Rootkit for Linux v4
 
