@@ -29,8 +29,9 @@ Rootkit is trying to evade from detection by:
 
 ## Management interface
 
-Implemented via `kill(2)` by hooking `sys_call_table[__NR_kill]`:
- - https://github.com/linux-rootkits/Reptile/blob/master/rep_mod.c#L509
+Implemented via `kill(2)`:
+ - hook`sys_call_table[__NR_kill]`
+   - https://github.com/linux-rootkits/Reptile/blob/master/rep_mod.c#L509
  
  Supported commands are:
  - hiding/unhiding processes
