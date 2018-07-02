@@ -24,6 +24,7 @@ Hiding stuff capabilities:
 Additional functions:
  - Keylogger
  - Backdoor/shell
+ - Gain priveleges
 
 ## :see_no_evil: user mode rootkits
 
