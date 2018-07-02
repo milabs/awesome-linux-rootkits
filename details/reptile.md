@@ -32,7 +32,7 @@ Rootkit is trying to evade from detection by:
 
 ## Management interface
 
-Implemented via `kill(2)` by hooking `sys_call_table[__NR_kill]` entry:
+Implemented via `kill(2)` by hooking `sys_call_table[__NR_kill]`:
  - https://github.com/linux-rootkits/Reptile/blob/master/rep_mod.c#L509
  
  Supported commands are:
@@ -58,6 +58,7 @@ Hooking of system calls by patching syscall-handlers in `sys_call_table[]`:
 
 Filtering of file content while reading:
  - hook `sys_call_table[__NR_read]`
+   - https://github.com/linux-rootkits/Reptile/blob/master/rep_mod.c#L282
    - https://github.com/linux-rootkits/Reptile/blob/master/rep_mod.c#L638
 
 ## Hiding of files and directories
