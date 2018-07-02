@@ -66,7 +66,7 @@ Additional functions:
   | Persistency | /etc/modules or /etc/rc.modules | boot-time module loading |
   | Management interface | `kill(2)` | `sys_call_table[__NR_kill]` |
   | Hiding of files and directories | Filtering of direcroty entries | `sys_call_table[__NR_getdents]`  `sys_call_table[__NR_getdents64]` |
-  | Hiding of processes and process trees | Filtering of `/proc` | Filtering `getdents` while listing `/proc`. Hidden tasks are marked using `task->flags` (0x10000000). Not able to hide all threads and childs of parent process. |
+  | Hiding of processes and process trees | Filtering of `/proc` | Filtering `getdents` while listing `/proc`. Hidden tasks are marked using `task->flags` (0x10000000). Not able to hide all threads and children of parent process. |
   
 - https://github.com/QuokkaLight/rkduck
 
