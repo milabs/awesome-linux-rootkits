@@ -2,8 +2,8 @@
 
 https://github.com/f0rb1dd3n/Reptile
 
- - Not able to tamper file contents while reading byte-by-byte (:exclamation:)
- - Not able to hide all threads and children of hidden (parent) process (:exclamation:)
+ - not able to tamper file contents while reading byte-by-byte (:exclamation:)
+ - not able to hide all threads and children of hidden (parent) process (:exclamation:)
 
 ## Environment
 
@@ -39,14 +39,14 @@ Hooking of system calls by patching syscall-handlers in `sys_call_table[]`:
 
 ## Hiding (tampering) of file contents
 
-Filtering of file content while reading by hooking:
- - `sys_call_table[__NR_read]`
+Filtering of file content while reading:
+ - hook `sys_call_table[__NR_read]`
 
 ## Hiding of files and directories
 
-Filtering of directory entries by hoocking:
- - `sys_call_table[__NR_getdents]`
- - `sys_call_table[__NR_getdents64]`
+Filtering of directory entries:
+ - hook `sys_call_table[__NR_getdents]`
+ - hook `sys_call_table[__NR_getdents64]`
 
 ## Hiding of processes and process trees
 
@@ -57,5 +57,5 @@ Filtering PID-like numeric entries while listing `/proc`:
 ## Backdoor/shell
 
 Reverse shell spawning by port-knocking-like technique:
- - `ICMP/UDP/TCP` port-knocking
+ - magic packet with token used (`ICMP/UDP/TCP`)
  - spawning root-shell connection to remote host
