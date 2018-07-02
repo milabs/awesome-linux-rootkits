@@ -46,8 +46,9 @@ Filtering of directory entries by hoocking:
 
 ## Hiding of processes and process trees
 
-Filtering PID-like numeric entries while listing `/proc`.
+Filtering PID-like numeric entries while listing `/proc`:
+ - getdents/getdents64 hook used
 
-Hidden tasks are marked using `task->flags \| 0x10000000`.
+Hidden tasks are marked using `task->flags`, bit `0x10000000` used.
 
 Not able to hide all threads and children of hidden (parent) process.
