@@ -2,9 +2,6 @@
 
 https://github.com/f0rb1dd3n/Reptile
 
- - not able to tamper file contents while reading byte-by-byte (:exclamation:)
- - not able to hide all threads and children of hidden (parent) process (:exclamation:)
-
 ## Environment
 
 - x86, x86_64
