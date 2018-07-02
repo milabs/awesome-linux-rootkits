@@ -64,12 +64,12 @@ Additional functions:
   | Feature | Description | Implementation Details |
   | --- | --- | --- |
   | Environment | 2.6.x/3.x/4.x (x86) | `sys_call_table` search method is x86-only |
-  | Persistency | /etc/modules or /etc/rc.modules | boot-time module loading |
+  | Persistency | /etc/modules or /etc/rc.modules | Boot-time module loading using OS-specific startup files.  |
   | Management interface | `kill(2)` | `sys_call_table[__NR_kill]` |
   | Hiding (tampering) of file contents | Filtering while reading | `sys_call_table[__NR_read]` |
-  | Hiding of files and directories | Filtering of direcroty entries | `sys_call_table[__NR_getdents]`  `sys_call_table[__NR_getdents64]` |
+  | Hiding of files and directories | Filtering of directory entries | `sys_call_table[__NR_getdents]`  `sys_call_table[__NR_getdents64]` |
   | Hiding of processes and process trees | Filtering of `/proc` | Filtering PID-like numeric entries while listing `/proc`. Hidden tasks are marked using `task->flags | 0x10000000`. Not able to hide all threads and children of parent process. |
-  | Detection evasion | Hiding | Hide own files. Unlinks module from `module_list`. Alters contents of files while reading.  |
+  | Detection evasion | Hides own components | Hide files, unlinks module from `module_list`, alters contents of startup files while reading.  |
   
 - https://github.com/QuokkaLight/rkduck
 
