@@ -34,7 +34,7 @@ Implemented via `kill(2)`:
  - hook`sys_call_table[__NR_kill]`
    - https://github.com/linux-rootkits/Reptile/blob/master/rep_mod.c#L509
  
- Supported commands are:
+Supported commands are:
  - hiding/unhiding processes
    - https://github.com/linux-rootkits/Reptile/blob/master/rep_mod.c#L518
  - hiding/unhiding rootkit's module
