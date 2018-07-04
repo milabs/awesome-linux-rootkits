@@ -56,7 +56,13 @@ Hooking of system calls by patching syscall-handlers in `sys_call_table[]`:
     - https://github.com/linux-rootkits/rkduck/blob/master/rkduck/vfs.c#L59 (vfs_hijacked_filldir)
   - https://github.com/linux-rootkits/rkduck/blob/master/rkduck/vfs.c#L157 (vfs_hijacked_proc_iterate)
     - https://github.com/linux-rootkits/rkduck/blob/master/rkduck/vfs.c#L78 (vfs_hijacked_proc_filldir)
- 
+
+## Hiding of processes and process trees
+
+Filtering PID-like numeric entries while listing `/proc`:
+ - based on hiding of files capabilty (vfs_hide_file)
+   - https://github.com/linux-rootkits/rkduck/blob/master/rkduck/crumbs_serv.c#L30
+
 ## Keylogger
 
 Keylogger is implemented using `register_keyboard_notifier()`:
