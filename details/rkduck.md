@@ -57,3 +57,17 @@ Hooking of system calls by patching syscall-handlers in `sys_call_table[]`:
   - https://github.com/linux-rootkits/rkduck/blob/master/rkduck/vfs.c#L157 (vfs_hijacked_proc_iterate)
     - https://github.com/linux-rootkits/rkduck/blob/master/rkduck/vfs.c#L78 (vfs_hijacked_proc_filldir)
  
+## Keylogger
+
+Keylogger is implemented using `register_keyboard_notifier()`:
+ - https://github.com/linux-rootkits/rkduck/blob/master/rkduck/keylogger.c#L204
+ - https://github.com/linux-rootkits/rkduck/blob/master/rkduck/keylogger.c#L72 (keylogger_notify)
+
+Logged keystrokes are saved in file which periodically being sent to remote hos using `scp`:
+ - https://github.com/linux-rootkits/rkduck/blob/master/rkduck/keylogger.c#L181 (keylogger_init)
+ - https://github.com/linux-rootkits/rkduck/blob/master/rkduck/keylogger.c#L64 (writing to the file...)
+ - https://github.com/linux-rootkits/rkduck/blob/master/rkduck/keylogger.c#L32 (sending with `scp`)
+ 
+ ## Backdoor
+ 
+ ...
