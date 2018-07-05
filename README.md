@@ -55,7 +55,7 @@ Additional functions:
 
 - https://github.com/ChristianPapathanasiou/apache-rootkit
 
-  A malicious Apache module with rootkit functionality :point_up:
+  A malicious Apache module with rootkit functionality
 
 ## :hear_no_evil: kernel mode rootkits
 
@@ -77,17 +77,17 @@ Additional functions:
 
 - https://github.com/romeroperezabel/ARP-RootKit
 
-  An open source rootkit for the Linux Kernel to develop new ways of infection/detection. :fire:
+  An open source rootkit for the Linux Kernel to develop new ways of infection/detection.
 
 - https://github.com/nurupo/rootkit
 
   Linux rootkit for Ubuntu 16.04 and 10.04 (Linux Kernels 4.4.0 and 2.6.32), both i386 and amd64
 
-- https://github.com/m0nad/Diamorphine :shit: 
+- https://github.com/m0nad/Diamorphine
 
   LKM rootkit for Linux Kernels 2.6.x/3.x/4.x (x86 and x86_64)
   
-- https://github.com/ivyl/rootkit :shit:
+- https://github.com/ivyl/rootkit
 
   Sample Rootkit for Linux
   
@@ -137,7 +137,7 @@ Additional functions:
 
 - https://github.com/jarun/keysniffer
 
-  A Linux kernel module to grab keys pressed in the keyboard (`keylogger`).
+  A Linux kernel module to grab keys pressed in the keyboard.
 
 - https://github.com/PinkP4nther/Sutekh
 
@@ -145,7 +145,7 @@ Additional functions:
 
 - https://github.com/En14c/LilyOfTheValley
 
-  LilyOfTheValley is a simple LKM linux kernel rootkit for v4.x that works on (x86 and x86_64) :shit:
+  LilyOfTheValley is a simple LKM linux kernel rootkit for v4.x that works on (x86 and x86_64)
 
 ## :speak_no_evil: related stuff
 
