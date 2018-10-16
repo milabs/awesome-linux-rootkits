@@ -9,7 +9,7 @@ Environment:
 Core capabilities:
  - Persistency
  - Management interface
- - Altering system (library) behaviour
+ - Altering system (library) behavior
  
 Stealth capabilities:
  - Detection evasion
