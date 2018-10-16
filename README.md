@@ -90,6 +90,14 @@ Additional functions:
 - https://github.com/ivyl/rootkit
 
   Sample Rootkit for Linux
+
+- https://github.com/deb0ch/toorkit
+
+  A simple useless rootkit for the linux kernel
+
+- https://github.com/vrasneur/randkit
+
+  Random number rootkit for the Linux kernel
   
 - https://github.com/Eterna1/puszek-rootkit
 
@@ -146,6 +154,10 @@ Additional functions:
 - https://github.com/En14c/LilyOfTheValley
 
   LilyOfTheValley is a simple LKM linux kernel rootkit for v4.x that works on (x86 and x86_64)
+
+- https://github.com/NoviceLive/research-rootkit
+
+  This is LibZeroEvil & the Research Rootkit project, in which there are step-by-step, experiment-based courses that help to get you started and keep your hands dirty with offensive or defensive development in the Linux kernel
 
 ## :speak_no_evil: related stuff
 
