@@ -1,4 +1,4 @@
-# `awesome-linux-rootkits`
+# `awesome-linux-rootkits` [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## :key: feature table
 
@@ -164,3 +164,7 @@ Additional functions:
 - https://github.com/landhb/DrawBridge
 
   A layer 4 Single Packet Authentication (SPA) Module, used to conceal TCP ports on public facing machines and add an extra layer of security.
+
+## Contributing
+
+[Please refer the guidelines at contributing.md for details](CONTRIBUTING.md)
