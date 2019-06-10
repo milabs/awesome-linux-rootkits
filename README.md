@@ -10,10 +10,10 @@ Core capabilities:
  - Persistency
  - Management interface
  - Altering system (library) behavior
- 
+
 Stealth capabilities:
  - Detection evasion
- - System logs cleaning (filtering) 
+ - System logs cleaning (filtering)
 
 Hiding stuff capabilities:
  - Hiding of files and directories
@@ -59,10 +59,14 @@ Additional functions:
 
 ## :hear_no_evil: kernel mode rootkits
 
+- https://github.com/trailofbits/krf
+
+  A kernelspace randomized syscall faulter for Linux 4.15+
+
 - https://github.com/f0rb1dd3n/Reptile :zap: [details](details/reptile.md) :zap:
 
   Reptile is a LKM rootkit written for evil purposes that runs on Linux kernel 2.6.x/3.x/4.x
-  
+
 - https://github.com/QuokkaLight/rkduck :zap: [details](details/rkduck.md) :zap:
 
   rkduck - Rootkit for Linux v4
@@ -86,7 +90,7 @@ Additional functions:
 - https://github.com/m0nad/Diamorphine
 
   LKM rootkit for Linux Kernels 2.6.x/3.x/4.x (x86 and x86_64)
-  
+
 - https://github.com/ivyl/rootkit
 
   Sample Rootkit for Linux
@@ -98,7 +102,7 @@ Additional functions:
 - https://github.com/vrasneur/randkit
 
   Random number rootkit for the Linux kernel
-  
+
 - https://github.com/Eterna1/puszek-rootkit
 
   Yet another LKM rootkit for Linux. It hooks syscall table.
@@ -106,7 +110,7 @@ Additional functions:
 - https://github.com/trimpsyw/adore-ng
 
   linux rootkit adapted for 2.6 and 3.x
-  
+
 - https://github.com/bones-codes/the_colonel
 
   An experimental linux kernel module (rootkit) with a keylogger and built-in IRC bot
