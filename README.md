@@ -59,6 +59,10 @@ Additional functions:
 
 ## :hear_no_evil: kernel mode rootkits
 
+- https://github.com/jermeyyy/rooty
+
+  Academic project of Linux rootkit made for Bachelor Engineering Thesis.
+
 - https://github.com/trailofbits/krf
 
   A kernelspace randomized syscall faulter for Linux 4.15+
