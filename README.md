@@ -181,6 +181,10 @@ Additional functions:
 
   A layer 4 Single Packet Authentication (SPA) Module, used to conceal TCP ports on public facing machines and add an extra layer of security.
 
+- https://github.com/gianlucaborello/libprocesshider
+
+  Hide a process under Linux using the ld preloader
+
 ## Contributing
 
 [Please refer the guidelines at contributing.md for details](CONTRIBUTING.md)
