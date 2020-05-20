@@ -165,15 +165,11 @@ Additional functions:
 
 - https://github.com/NoviceLive/research-rootkit
 
-  This is LibZeroEvil & the Research Rootkit project, in which there are step-by-step, experiment-based courses that help to get you started and keep your hands dirty with offensive or defensive development in the Linux kernel
+  This is LibZeroEvil & the Research Rootkit project, in which there are step-by-step, experiment-based courses that help to get you started and keep your hands dirty with offensive or defensive development in the Linux kernel (LibZeroEvil).
 
 - https://github.com/NinnOgTonic/Out-of-Sight-Out-of-Mind-Rootkit :zap: [writeup](https://github.com/NinnOgTonic/Out-of-Sight-Out-of-Mind-Rootkit/blob/master/osom.pdf) :zap:
 
   Out of Sight, Out of Mind is a study and implementation of Linux rootkit methods. In addition a new covert network channel using additional Domain Name System (DNS) is implemented.
-  
-- https://github.com/NoviceLive/research-rootkit
-
-  Step-by-step, experiment-based courses that help to get you started and keep your hands dirty with offensive or defensive development in the Linux kernel (LibZeroEvil).
 
 ## :speak_no_evil: related stuff
 
