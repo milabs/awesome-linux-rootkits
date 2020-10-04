@@ -181,6 +181,10 @@ Additional functions:
 
   Hide a process under Linux using the ld preloader
 
+- https://github.com/spiderpig1297/kprochide @spiderpig1297
+
+  LKM for hiding processes from the userland. The module is able to hide multiple processes and is able to dynamically receive new processes to hide.
+
 ## Contributing
 
 [Please refer the guidelines at contributing.md for details](CONTRIBUTING.md)
