@@ -189,6 +189,10 @@ Additional functions:
 
   kfile-over-icmp is a loadable kernel module for stealth sending of files over ICMP communication.
 
+- https://github.com/spiderpig1297/kunkillable
+
+  LKM (loadable kernel module) that makes userland processes unkillable.
+
 ## Contributing
 
 [Please refer the guidelines at contributing.md for details](CONTRIBUTING.md)
