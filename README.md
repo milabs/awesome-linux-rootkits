@@ -181,9 +181,13 @@ Additional functions:
 
   Hide a process under Linux using the ld preloader
 
-- https://github.com/spiderpig1297/kprochide @spiderpig1297
+- https://github.com/spiderpig1297/kprochide
 
   LKM for hiding processes from the userland. The module is able to hide multiple processes and is able to dynamically receive new processes to hide.
+
+- https://github.com/spiderpig1297/kfile-over-icmp
+
+  kfile-over-icmp is a loadable kernel module for stealth sending of files over ICMP communication.
 
 ## Contributing
 
