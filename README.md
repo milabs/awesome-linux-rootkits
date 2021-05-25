@@ -170,6 +170,10 @@ Additional functions:
 - https://github.com/NinnOgTonic/Out-of-Sight-Out-of-Mind-Rootkit :zap: [writeup](https://github.com/NinnOgTonic/Out-of-Sight-Out-of-Mind-Rootkit/blob/master/osom.pdf) :zap:
 
   Out of Sight, Out of Mind is a study and implementation of Linux rootkit methods. In addition a new covert network channel using additional Domain Name System (DNS) is implemented.
+  
+- https://github.com/h3xduck/Umbra
+ 
+  An experimental LKM rootkit for v4.x/5.x kernels which opens a backdoor that can be used to get a reverse shell remotely.
 
 ## :speak_no_evil: related stuff
 
