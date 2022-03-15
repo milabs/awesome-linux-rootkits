@@ -197,6 +197,10 @@ Additional functions:
 
   LKM (loadable kernel module) that makes userland processes unkillable.
 
+- https://github.com/reveng007/reveng_rtkit
+
+  Linux Loadable Kernel Module (LKM) based rootkit capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter antirootkit.
+
 ## Contributing
 
 [Please refer the guidelines at contributing.md for details](CONTRIBUTING.md)
