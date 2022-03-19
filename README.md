@@ -93,7 +93,7 @@ Additional functions:
 
 - https://github.com/m0nad/Diamorphine
 
-  LKM rootkit for Linux Kernels 2.6.x/3.x/4.x (x86 and x86_64)
+  LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x (x86 and x86_64)
 
 - https://github.com/ivyl/rootkit
 
