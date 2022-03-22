@@ -175,6 +175,10 @@ Additional functions:
  
   An experimental LKM rootkit for v4.x/5.x kernels which opens a backdoor that can be used to get a reverse shell remotely.
 
+- https://github.com/reveng007/reveng_rtkit
+
+  Linux Loadable Kernel Module (LKM) based rootkit capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter antirootkit.
+
 ## :speak_no_evil: related stuff
 
 - https://github.com/landhb/DrawBridge
@@ -197,9 +201,9 @@ Additional functions:
 
   LKM (loadable kernel module) that makes userland processes unkillable.
 
-- https://github.com/reveng007/reveng_rtkit
+- https://web.archive.org/web/20140701183221/https://www.thc.org/papers/LKM_HACKING.html
 
-  Linux Loadable Kernel Module (LKM) based rootkit capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter antirootkit.
+  Heroin, any more LKM rootkit techniques.
 
 ## Contributing
 
