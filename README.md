@@ -203,7 +203,7 @@ Additional functions:
 
 - https://web.archive.org/web/20140701183221/https://www.thc.org/papers/LKM_HACKING.html
 
-  Heroin, any more LKM rootkit techniques.
+  Heroin, an LKM based rootkit, and many more LKM based rootkit techniques (it's backdated, but posses powerful knowledge).
 
 ## Contributing
 
