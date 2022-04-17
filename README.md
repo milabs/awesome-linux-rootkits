@@ -175,6 +175,14 @@ Additional functions:
  
   An experimental LKM rootkit for v4.x/5.x kernels which opens a backdoor that can be used to get a reverse shell remotely.
 
+- https://github.com/kris-nova/boopkit
+
+  Linux backdoor, rootkit, and eBPF bypass tools. Remote command execution over raw TCP.
+
+- https://github.com/milabs/kopycat
+
+  KOPYCAT - Linux Kernel module-less implant (backdoor).
+
 ## :speak_no_evil: related stuff
 
 - https://github.com/landhb/DrawBridge
