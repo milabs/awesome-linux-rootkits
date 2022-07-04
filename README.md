@@ -182,6 +182,10 @@ Additional functions:
 - https://github.com/milabs/kopycat
 
   KOPYCAT - Linux Kernel module-less implant (backdoor).
+  
+- https://github.com/h3xduck/TripleCross
+ 
+  A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities.
 
 ## :speak_no_evil: related stuff
 
