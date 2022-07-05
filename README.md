@@ -187,6 +187,10 @@ Additional functions:
  
   A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities.
 
+- https://github.com/carloslack/KoviD
+
+ Linux 4.18+ rootkit with multiple reverse backdoors, task management, CPU usage hiding, stealth techniques, ELF infection and evasion from anti-rooktiks based on eBPF.
+
 ## :speak_no_evil: related stuff
 
 - https://github.com/landhb/DrawBridge
