@@ -191,6 +191,10 @@ Additional functions:
 
  Linux 4.18+ rootkit with multiple reverse backdoors, task management, CPU usage hiding, stealth techniques, ELF infection and evasion from anti-rooktiks based on eBPF.
 
+- https://github.com/reveng007/reveng_rtkit
+
+  Linux Loadable Kernel Module (LKM) based rootkit capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter antirootkit.
+
 ## :speak_no_evil: related stuff
 
 - https://github.com/landhb/DrawBridge
@@ -213,9 +217,9 @@ Additional functions:
 
   LKM (loadable kernel module) that makes userland processes unkillable.
 
-- https://github.com/reveng007/reveng_rtkit
+- https://web.archive.org/web/20140701183221/https://www.thc.org/papers/LKM_HACKING.html
 
-  Linux Loadable Kernel Module (LKM) based rootkit capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter antirootkit.
+  Heroin, an LKM based rootkit, and many more LKM based rootkit techniques (it's backdated, but posses powerful knowledge).
 
 ## Contributing
 
