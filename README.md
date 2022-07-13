@@ -29,197 +29,205 @@ Additional functions:
 
 ## :see_no_evil: user mode rootkits
 
-- https://github.com/mempodippy/vlany
+ GitHub: https://github.com/mempodippy/vlany.git
 
   Linux LD_PRELOAD rootkit (x86 and x86_64 architectures)
 
-- https://github.com/unix-thrust/beurk
+ GitHub: https://github.com/unix-thrust/beurk.git
 
   BEURK is an userland preload rootkit for GNU/Linux, heavily focused around anti-debugging and anti-detection.
 
-- https://github.com/chokepoint/azazel
+ GitHub: https://github.com/chokepoint/azazel.git
 
   Azazel is a userland rootkit based off of the original LD_PRELOAD technique from Jynx rootkit.
 
-- https://github.com/chokepoint/Jynx2
+ GitHub: https://github.com/chokepoint/Jynx2.git
 
   JynxKit2 is an LD_PRELOAD userland rootkit based on the original JynxKit.
 
-- https://github.com/chokepoint/jynxkit
+ GitHub: https://github.com/chokepoint/jynxkit.git
 
   JynxKit is an LD_PRELOAD userland rootkit for Linux systems with reverse connection SSL backdoor
 
-- https://github.com/NexusBots/Umbreon-Rootkit
+ GitHub: https://github.com/NexusBots/Umbreon-Rootkit.git
 
   LD_PRELOAD based
 
-- https://github.com/ChristianPapathanasiou/apache-rootkit
+ GitHub: https://github.com/ChristianPapathanasiou/apache-rootkit.git
 
   A malicious Apache module with rootkit functionality
 
 ## :hear_no_evil: kernel mode rootkits
 
-- https://github.com/jermeyyy/rooty
+ GitHub: https://github.com/jermeyyy/rooty.git
 
   Academic project of Linux rootkit made for Bachelor Engineering Thesis.
 
-- https://github.com/trailofbits/krf
+ GitHub: https://github.com/trailofbits/krf.git
 
   A kernelspace randomized syscall faulter for Linux 4.15+
 
-- https://github.com/f0rb1dd3n/Reptile :zap: [details](details/reptile.md) :zap:
+ GitHub: https://github.com/f0rb1dd3n/Reptile.git
+ :zap: [details](details/reptile.md) :zap:
 
   Reptile is a LKM rootkit written for evil purposes that runs on Linux kernel 2.6.x/3.x/4.x
 
-- https://github.com/QuokkaLight/rkduck :zap: [details](details/rkduck.md) :zap:
+ GitHub: https://github.com/QuokkaLight/rkduck.git
+ :zap: [details](details/rkduck.md) :zap:
 
   rkduck - Rootkit for Linux v4
 
-- https://github.com/croemheld/lkm-rootkit
+ GitHub: https://github.com/croemheld/lkm-rootkit.git
 
   A LKM rootkit for most newer kernel versions.
 
-- https://github.com/mncoppola/suterusu
+ GitHub: https://github.com/mncoppola/suterusu.git
 
   An LKM rootkit targeting Linux 2.6.x/3.x on x86, and ARM
 
-- https://github.com/romeroperezabel/ARP-RootKit
+ GitHub: https://github.com/romeroperezabel/ARP-RootKit.git
 
   An open source rootkit for the Linux Kernel to develop new ways of infection/detection.
 
-- https://github.com/nurupo/rootkit
+ GitHub: https://github.com/nurupo/rootkit.git
 
   Linux rootkit for Ubuntu 16.04 and 10.04 (Linux Kernels 4.4.0 and 2.6.32), both i386 and amd64
 
-- https://github.com/m0nad/Diamorphine
+ GitHub: https://github.com/m0nad/Diamorphine.git
 
   LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x (x86 and x86_64)
 
-- https://github.com/ivyl/rootkit
+ GitHub: https://github.com/ivyl/rootkit.git
 
   Sample Rootkit for Linux
 
-- https://github.com/deb0ch/toorkit
+ GitHub: https://github.com/deb0ch/toorkit.git
 
   A simple useless rootkit for the linux kernel
 
-- https://github.com/vrasneur/randkit
+ GitHub: https://github.com/vrasneur/randkit.git
 
   Random number rootkit for the Linux kernel
 
-- https://github.com/Eterna1/puszek-rootkit
+ GitHub: https://github.com/Eterna1/puszek-rootkit.git
 
   Yet another LKM rootkit for Linux. It hooks syscall table.
 
-- https://github.com/trimpsyw/adore-ng
+ GitHub: https://github.com/trimpsyw/adore-ng.git
 
   linux rootkit adapted for 2.6 and 3.x
 
-- https://github.com/bones-codes/the_colonel
+ GitHub: https://github.com/bones-codes/the_colonel.git
 
   An experimental linux kernel module (rootkit) with a keylogger and built-in IRC bot
 
-- https://github.com/David-Reguera-Garcia-Dreg/enyelkm
+ GitHub: https://github.com/David-Reguera-Garcia-Dreg/enyelkm.git
 
   LKM rootkit for Linux x86 with the 2.6 kernel. It inserts salts inside system_call and sysenter_entry.
 
-- https://github.com/falk3n/subversive
+ GitHub: https://github.com/falk3n/subversive.git
 
   x86_64 linux rootkit using debug registers
 
-- https://github.com/jiayy/lkm-rootkit
+ GitHub: https://github.com/jiayy/lkm-rootkit.git
 
   An lkm rootkit support x86/64,arm,mips
 
-- https://github.com/a7vinx/liinux
+ GitHub: https://github.com/a7vinx/liinux.git
 
   A linux rootkit works on kernel 4.0.X or higher
 
-- https://github.com/hanj4096/wukong
+ GitHub: https://github.com/hanj4096/wukong.git
 
   Wukong: a LKM rootkit for Linux kernel 2.6.x, 3.x and 4.x
 
-- https://github.com/varshapaidi/Kernel_Rootkit
+ GitHub: https://github.com/varshapaidi/Kernel_Rootkit.git
 
   Linux Kernel Rootkit - To hide modules and ssh service
 
-- https://github.com/kacheo/KernelRootkit
+ GitHub: https://github.com/kacheo/KernelRootkit.git
 
   Linux kernel rootkit to hide certain files and processes.
 
-- https://github.com/dsmatter/brootus
+ GitHub: https://github.com/dsmatter/brootus.git
 
   bROOTus is a Linux kernel rootkit that comes as a single LKM (Loadable Kernel Module) and it is totally restricted to kernel 2.6.32.
 
-- https://github.com/jarun/keysniffer
+ GitHub: https://github.com/jarun/keysniffer.git
 
   A Linux kernel module to grab keys pressed in the keyboard.
 
-- https://github.com/PinkP4nther/Sutekh
+ GitHub: https://github.com/PinkP4nther/Sutekh.git
 
   An example rootkit that gives a userland process root permissions (x86, 4.x)
 
-- https://github.com/En14c/LilyOfTheValley
+ GitHub: https://github.com/En14c/LilyOfTheValley.git
 
   LilyOfTheValley is a simple LKM linux kernel rootkit for v4.x that works on (x86 and x86_64)
 
-- https://github.com/NoviceLive/research-rootkit
+ GitHub: https://github.com/NoviceLive/research-rootkit.git
 
   This is LibZeroEvil & the Research Rootkit project, in which there are step-by-step, experiment-based courses that help to get you started and keep your hands dirty with offensive or defensive development in the Linux kernel (LibZeroEvil).
 
-- https://github.com/NinnOgTonic/Out-of-Sight-Out-of-Mind-Rootkit :zap: [writeup](https://github.com/NinnOgTonic/Out-of-Sight-Out-of-Mind-Rootkit/blob/master/osom.pdf) :zap:
+ GitHub: https://github.com/NinnOgTonic/Out-of-Sight-Out-of-Mind-Rootkit.git
+ :zap: [writeup](https://github.com/NinnOgTonic/Out-of-Sight-Out-of-Mind-Rootkit/blob/master/osom.pdf) :zap:
 
   Out of Sight, Out of Mind is a study and implementation of Linux rootkit methods. In addition a new covert network channel using additional Domain Name System (DNS) is implemented.
-  
-- https://github.com/h3xduck/Umbra
+
+ GitHub: https://github.com/h3xduck/Umbra.git
  
   An experimental LKM rootkit for v4.x/5.x kernels which opens a backdoor that can be used to get a reverse shell remotely.
 
-- https://github.com/kris-nova/boopkit
+ GitHub: https://github.com/kris-nova/boopkit.git
 
   Linux backdoor, rootkit, and eBPF bypass tools. Remote command execution over raw TCP.
 
-- https://github.com/milabs/kopycat
+ GitHub: https://github.com/milabs/kopycat.git
 
   KOPYCAT - Linux Kernel module-less implant (backdoor).
-  
-- https://github.com/h3xduck/TripleCross
- 
+
+ GitHub: https://github.com/h3xduck/TripleCross.git
+
   A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities.
 
-- https://github.com/carloslack/KoviD
+ GitHub: https://github.com/carloslack/KoviD.git
 
- Linux 4.18+ rootkit with multiple reverse backdoors, task management, CPU usage hiding, stealth techniques, ELF infection and evasion from anti-rooktiks based on eBPF.
+  KoviD - Linux 4.18+ rootkit with multiple reverse backdoors, hidden tasks management, CPU usage hiding, stealth techniques, ELF infection, evasion from anti-rooktiks based on eBPF and others, Kaudit evasion and more.
 
-- https://github.com/reveng007/reveng_rtkit
+ GitHub: https://github.com/reveng007/reveng_rtkit.git
 
   Linux Loadable Kernel Module (LKM) based rootkit capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter antirootkit.
 
 ## :speak_no_evil: related stuff
 
-- https://github.com/landhb/DrawBridge
+ GitHub: https://github.com/landhb/DrawBridge.git
 
   A layer 4 Single Packet Authentication (SPA) Module, used to conceal TCP ports on public facing machines and add an extra layer of security.
 
-- https://github.com/gianlucaborello/libprocesshider
+ GitHub: https://github.com/gianlucaborello/libprocesshider.git
 
   Hide a process under Linux using the ld preloader
 
-- https://github.com/spiderpig1297/kprochide
+ GitHub: https://github.com/spiderpig1297/kprochide.git
 
   LKM for hiding processes from the userland. The module is able to hide multiple processes and is able to dynamically receive new processes to hide.
 
-- https://github.com/spiderpig1297/kfile-over-icmp
+ GitHub: https://github.com/spiderpig1297/kfile-over-icmp.git
 
   kfile-over-icmp is a loadable kernel module for stealth sending of files over ICMP communication.
 
-- https://github.com/spiderpig1297/kunkillable
+ GitHub: https://github.com/spiderpig1297/kunkillable.git
 
   LKM (loadable kernel module) that makes userland processes unkillable.
 
-- https://web.archive.org/web/20140701183221/https://www.thc.org/papers/LKM_HACKING.html
+  https://web.archive.org/web/20140701183221/https://www.thc.org/papers/LKM_HACKING.html
 
   Heroin, an LKM based rootkit, and many more LKM based rootkit techniques (it's backdated, but posses powerful knowledge).
+
+## Helper script
+
+  Try `./cloneall.sh` to fetch all rootkits in the above list in one go.
+  Rootkits are saved in `rootkits` directory.
 
 ## Contributing
 
