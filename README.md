@@ -26,6 +26,7 @@ Additional functions:
  - Keylogger
  - Backdoor/shell
  - Gaining priveleges
+ - Execution
 
 ## :see_no_evil: user mode rootkits
 
@@ -58,6 +59,9 @@ Additional functions:
   A malicious Apache module with rootkit functionality
 
 ## :hear_no_evil: kernel mode rootkits
+- https://github.com/loneicewolf/EXEC_LKM
+
+  Execute commands or executables via kernel.
 
 - https://github.com/jermeyyy/rooty
 
