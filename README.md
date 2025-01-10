@@ -227,6 +227,10 @@ Additional functions:
 
   Heroin, an LKM based rootkit, and many more LKM based rootkit techniques (it's backdated, but posses powerful knowledge).
 
+- https://github.com/MatheuZSecurity/Rootkit
+
+  Collection of codes focused on Linux rootkits
+
 ## Contributing
 
 [Please refer the guidelines at contributing.md for details](CONTRIBUTING.md)
