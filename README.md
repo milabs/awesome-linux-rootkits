@@ -65,6 +65,10 @@ Additional functions:
 
   Features only hiding of files/directories and processes.
 
+- https://github.com/MatheuZSecurity/Singularity
+
+  Singularity is a powerful Linux Kernel Module (LKM) rootkit designed for modern 6.x kernels. It provides comprehensive stealth capabilities through advanced system call hooking via ftrace infrastructure.
+
 - https://github.com/jermeyyy/rooty
 
   Academic project of Linux rootkit made for Bachelor Engineering Thesis.
