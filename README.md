@@ -236,9 +236,6 @@ Tools for detecting and analyzing rootkits:
 
   OSSEC is an Open Source Host-based Intrusion Detection System that performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response.
 
-- https://rkhunter.sourceforge.net/
-
-  rkhunter (Rootkit Hunter) - Security monitoring and analyzing tool for POSIX systems.
 
 - https://github.com/chkrootkit/chkrootkit
 
