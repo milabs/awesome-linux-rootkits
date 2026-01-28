@@ -231,6 +231,34 @@ Additional functions:
 
   Collection of codes focused on Linux rootkits
 
+## :mag: detection tools
+
+Tools for detecting and analyzing rootkits:
+
+- https://github.com/ossec/ossec-hids
+
+  OSSEC is an Open Source Host-based Intrusion Detection System that performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response.
+
+- https://github.com/chkrootkit/chkrootkit
+
+  chkrootkit - locally checks for signs of a rootkit.
+
+- https://github.com/Sysinternals/SysmonForLinux
+
+  Sysmon For Linux - system monitoring tool that logs security-relevant events.
+
+- https://github.com/al0ne/LinuxCheck
+
+  Linux emergency response and security check tool with rootkit detection capabilities.
+
+- https://github.com/CISOfy/lynis
+
+  Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems with rootkit scanning.
+
+- https://github.com/draios/sysdig
+
+  Sysdig - Linux system exploration and troubleshooting tool with container support, useful for rootkit analysis.
+
 ## Contributing
 
 [Please refer the guidelines at contributing.md for details](CONTRIBUTING.md)
