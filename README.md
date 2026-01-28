@@ -227,6 +227,9 @@ Additional functions:
 
   Heroin, an LKM based rootkit, and many more LKM based rootkit techniques (it's backdated, but posses powerful knowledge).
 
+- https://github.com/MatheuZSecurity/Rootkit
+
+  Collection of codes focused on Linux rootkits
 
 ## :mag: detection tools
 
@@ -235,7 +238,6 @@ Tools for detecting and analyzing rootkits:
 - https://github.com/ossec/ossec-hids
 
   OSSEC is an Open Source Host-based Intrusion Detection System that performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response.
-
 
 - https://github.com/chkrootkit/chkrootkit
 
