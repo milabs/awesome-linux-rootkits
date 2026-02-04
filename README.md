@@ -201,6 +201,14 @@ Additional functions:
 
   Linux Loadable Kernel Module (LKM) based rootkit capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter antirootkit.
 
+## :mag: detection tools
+
+Tools for detecting and analyzing rootkits:
+
+- https://github.com/bad-antics/rupurt
+
+  rupurt - Advanced Linux rootkit hunter with 250+ signatures, eBPF analysis, memory forensics, and APT detection. Features real-time monitoring and comprehensive threat intelligence.
+
 ## :speak_no_evil: related stuff
 
 - https://github.com/landhb/DrawBridge
