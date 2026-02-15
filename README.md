@@ -59,6 +59,10 @@ Additional functions:
 
 ## :hear_no_evil: kernel mode rootkits
 
+- https://github.com/MatheuZSecurity/Singularity
+
+  Singularity is a powerful Linux Kernel Module (LKM) rootkit designed for modern 6.x kernels. It provides comprehensive stealth capabilities through advanced system call hooking via ftrace infrastructure.
+
 - https://github.com/ait-aecid/caraxes/
 
   Academic Linux Kernel Module rootkit, from Linux 6.2 up tested until Linux 6.11 - may work with even newer versions.
