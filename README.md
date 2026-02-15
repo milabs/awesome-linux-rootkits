@@ -195,19 +195,11 @@ Additional functions:
 
 - https://github.com/carloslack/KoviD
 
- Linux 4.18+ rootkit with multiple reverse backdoors, task management, CPU usage hiding, stealth techniques, ELF infection and evasion from anti-rooktiks based on eBPF.
+  Linux 4.18+ rootkit with multiple reverse backdoors, task management, CPU usage hiding, stealth techniques, ELF infection and evasion from anti-rooktiks based on eBPF.
 
 - https://github.com/reveng007/reveng_rtkit
 
   Linux Loadable Kernel Module (LKM) based rootkit capable of hiding itself, processes/implants, rmmod proof, has ability to bypass infamous rkhunter antirootkit.
-
-## :mag: detection tools
-
-Tools for detecting and analyzing rootkits:
-
-- https://github.com/bad-antics/rupurt
-
-  rupurt - Advanced Linux rootkit hunter with 250+ signatures, eBPF analysis, memory forensics, and APT detection. Features real-time monitoring and comprehensive threat intelligence.
 
 ## :speak_no_evil: related stuff
 
@@ -242,6 +234,10 @@ Tools for detecting and analyzing rootkits:
 ## :mag: detection tools
 
 Tools for detecting and analyzing rootkits:
+
+- https://github.com/bad-antics/rupurt
+
+  rupurt - Advanced Linux rootkit hunter with 250+ signatures, eBPF analysis, memory forensics, and APT detection. Features real-time monitoring and comprehensive threat intelligence.
 
 - https://github.com/ossec/ossec-hids
 
